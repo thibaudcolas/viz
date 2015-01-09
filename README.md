@@ -1,18 +1,19 @@
-dataviz-experiments
+[dataviz-experiments](http://viz.thib.me/)
 ============
 
-A group of little visualizations / experiments running in the browser.
+> A group of little visualizations / experiments running in the browser.
 
-## Meal Expenses
+## Visualizations
 
->[Food-related expenses forecast](https://rawgit.com/ThibWeb/dataviz-experiments/master/meal-expenses/index.html)
+- [Food-related expenses forecast](http://viz.thib.me/meal-expenses/)
+- [Coast to Coast Walk, Auckland](http://viz.thib.me/coast2coast-walk/)
 
-## Coast to Coast Walk, Auckland
+## License (ISC)
 
->[Map of the 16km walk](https://rawgit.com/ThibWeb/dataviz-experiments/master/coast2coast-walk/index.html)
+[The ISC License](https://en.wikipedia.org/wiki/ISC_license)
 
-## License
+Copyright (c) 2014, Thibaud Colas
 
-Available under the ISC license.
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
-Copyright © 2014 Thibaud Colas
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
