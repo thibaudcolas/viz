@@ -2,7 +2,7 @@
 title: ThibWeb's Viz
 email:
 description: A group of little visualizations / experiments running in the browser.
-baseurl: "/dataviz-experiments" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://viz.thib.me" # the base hostname & protocol for your site
 twitter_username: ThibWeb
 github_username:  ThibWeb
