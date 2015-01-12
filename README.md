@@ -1,18 +1,15 @@
-[dataviz-experiments](http://viz.thib.me/)
+[Viz](http://viz.thib.me/)
 ============
 
 > A group of little visualizations / experiments running in the browser.
 
-## Visualizations
-
-- [Food-related expenses forecast](http://viz.thib.me/meal-expenses/)
-- [Coast to Coast Walk, Auckland](http://viz.thib.me/coast2coast-walk/)
+Visualizations available at [viz.thib.me](http://viz.thib.me/)
 
 ## License (ISC)
 
 [The ISC License](https://en.wikipedia.org/wiki/ISC_license)
 
-Copyright (c) 2014, Thibaud Colas
+Copyright (c) 2015, Thibaud Colas
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
