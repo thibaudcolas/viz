@@ -5,6 +5,15 @@
 
 Visualizations available at [viz.thib.me](http://viz.thib.me/)
 
+## Installation
+
+```
+git clone git@github.com:ThibWeb/viz.git
+cd viz
+bundle install
+jekyll serve
+```
+
 ## License (ISC)
 
 [The ISC License](https://en.wikipedia.org/wiki/ISC_license)
