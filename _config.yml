@@ -1,5 +1,5 @@
 # Site settings
-title: ThibWeb's Viz
+title: Thibaud’s Viz
 email:
 description: A group of little visualizations / experiments running in the browser.
 baseurl: "" # the subpath of your site, e.g. /blog/
