@@ -4,7 +4,7 @@ email:
 description: A group of little visualizations / experiments running in the browser.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://viz.thib.me" # the base hostname & protocol for your site
-twitter_username: ThibWeb
+twitter_username: thibaud_colas
 github_username:  ThibWeb
 
 # Build settings
