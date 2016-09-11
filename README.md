@@ -8,7 +8,7 @@ Visualizations available at [viz.thib.me](http://viz.thib.me/)
 ## Installation
 
 ```
-git clone git@github.com:ThibWeb/viz.git
+git clone git@github.com:thibaudcolas/viz.git
 cd viz
 bundle install
 jekyll serve
