@@ -1,9 +1,8 @@
-[Viz](http://viz.thib.me/)
-============
+# [Viz](https://thib.me/viz/)
 
 > A group of little visualizations / experiments running in the browser.
 
-Visualizations available at [viz.thib.me](http://viz.thib.me/)
+Visualizations available at [thib.me/viz](https://thib.me/viz/)
 
 ## Installation
 
